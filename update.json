@@ -1,7 +1,7 @@
 {
-  "versionName": "v1.18",
-  "devVersionName": "v5.19",
-  "changelog": "【推送实验用】1. 更新检测上线\n2. 首页新版本横幅\n3. 忽略此版本 / 选源跳转",
+  "versionName": "v1.17",
+  "devVersionName": "v5.18",
+  "changelog": "1. 新增自动检查更新（Gitee 为主源 / GitHub 备源，可在关于页关闭）\n2. 首页新版本横幅：支持忽略此版本、多来源下载\n3. 修复特定歌词切行时下方歌词闪现的问题\n4. 字号放大/缩小过渡更平滑",
   "urls": {
     "gitee": "https://gitee.com/Liep39/power-lyrics/releases/latest",
     "github": "https://github.com/Liep39/PowerLyrics/releases/latest",
