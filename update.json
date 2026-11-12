@@ -1,0 +1,10 @@
+{
+  "versionName": "v1.18",
+  "devVersionName": "v5.19",
+  "changelog": "【推送实验用】1. 更新检测上线\n2. 首页新版本横幅\n3. 忽略此版本 / 选源跳转",
+  "urls": {
+    "gitee": "https://gitee.com/Liep39/power-lyrics/releases/latest",
+    "github": "https://github.com/Liep39/PowerLyrics/releases/latest",
+    "pan": "https://1827563504.share.123pan.cn/123pan/UlpKjv-F2Xbv"
+  }
+}
